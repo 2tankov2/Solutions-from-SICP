@@ -11,4 +11,4 @@
         (else (sum-of-squeres b c))))
 
 
-(check-equal? sum-of-squeres-max 2 8 4)
+(check-equal? (sum-of-squeres-max 2 8 4) 80)
